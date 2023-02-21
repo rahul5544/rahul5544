@@ -14,6 +14,6 @@ Skills: REACT / JS / HTML / CSS / JQUERY / CSS /NODE JS /
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul5544)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5544&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5544&show_icons=true)   -->
 
 ![Profile views](https://gpvc.arturio.dev/rahul5544)  
