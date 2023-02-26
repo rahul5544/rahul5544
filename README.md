@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / JQUERY / CSS /NODE JS /
 - 📫 How to reach me: rahuljena1030@gmail.com 
 
 - website:
-- https://rahul5544.github.io/Drum-Kit-Resposive/index.html
+https://rahul5544.github.io/Drum-Kit-Resposive/index.html
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul5544)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-jena-329539214/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahul_.ig/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rahuljena101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/rahul5544)   -->
 
