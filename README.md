@@ -6,7 +6,7 @@
 
 Skills: REACT / JS / HTML / CSS / JQUERY / CSS /NODE JS / 
 
-- 🌱 I’m currently learning React-Native 
+- 🌱 I’m currently learning Vue.Js
 - 📫 How to reach me: rahuljena1030@gmail.com 
 
 
