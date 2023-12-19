@@ -16,4 +16,4 @@ Skills: REACT / JS / HTML / CSS / JQUERY / SCSS /NODE JS / EXPRESS JS
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5544&show_icons=true)   -->
 
-![Profile views](https://gpvc.arturio.dev/rahul5544)  
+![Profile views](https://komarev.com/ghpvc/?username=rahul5544)  
