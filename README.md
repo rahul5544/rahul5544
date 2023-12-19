@@ -1,7 +1,7 @@
 <!-- ![Profile view](https://komarev.com/ghpvc/?rahul5544&color=green) -->
 <!-- ![Profile views](https://gpvc.arturio.dev/rahul5544) -->
 ### Hi there 👋, my name is Rahul
-#### I am Full Stack Developer
+#### I am Mern Stack Developer
 <!-- I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile. -->
 
 Skills: REACT / JS / HTML / CSS / JQUERY / SCSS /NODE JS / EXPRESS JS
