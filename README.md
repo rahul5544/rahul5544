@@ -6,7 +6,7 @@
 
 Skills: REACT / JS / HTML / CSS / JQUERY / SCSS /NODE JS / EXPRESS JS
 
-- 🌱 I’m currently learning Vue.Js
+- 🌱 I’m currently learning next.Js
 - 📫 How to reach me: rahuljena1030@gmail.com 
 
 
